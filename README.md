@@ -35,5 +35,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
-- [Frontend Mentor](https://www.frontendmentor.io/) for providing the design and project idea.
 - [Google Fonts](https://fonts.google.com/) for the beautiful font families.
